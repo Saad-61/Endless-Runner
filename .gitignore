@@ -1,0 +1,20 @@
+# Compiled binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Local game runtime data
+Endless Runner Game History
+
+# IDE and editor settings
+.vscode/
+*.user
+*.suo
+*.VC.db
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
